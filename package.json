@@ -1,6 +1,6 @@
 {
   "name": "@davidborzek/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A prettier config for my node projects.",
   "author": "davidborzek",
   "license": "MIT",
