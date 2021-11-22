@@ -1,0 +1,28 @@
+{
+  "name": "@davidborzek/prettier-config",
+  "version": "1.0.0",
+  "description": "A prettier config for my node projects.",
+  "author": "davidborzek",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "import-sort-style-eslint": "^6.0.0",
+    "prettier": "^2.4.1",
+    "prettier-plugin-import-sort": "^0.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidborzek/prettier-config.git"
+  },
+  "files": [
+    "README.md",
+    "index.js"
+  ],
+  "keywords": [
+    "prettier",
+    "prettier-config",
+    "coding",
+    "rules",
+    "style"
+  ]
+}
